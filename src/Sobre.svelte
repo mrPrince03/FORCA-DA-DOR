@@ -31,7 +31,12 @@
 </p>
 
 <p>
-	    Rafael José da Silva Nascimento
+	    	Rafael José da Silva Nascimento
+
+</p>
+
+<p>
+	    	Jonathan P. Marinho
 
 </p>
 
